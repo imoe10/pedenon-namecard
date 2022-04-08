@@ -136,18 +136,18 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #171717;
+	background-color: #EFEFEF;
 	
 
 }
 
 .bg-color-white {
-	background-color: #171717;
+	background-color: #EFEFEF;
 }
 
 .text-name {
     font-weight: 400;
-    color: #f1f1f1;
+    color: #000000;
     font-size: 28px;
     font-family: 'Cinzel', serif;
 }
@@ -170,7 +170,7 @@ img.profile-pic {
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 500;
-    color: #D7D7D7;
+    color: #171717;
     font-size: 13px;
 }
 
@@ -187,7 +187,7 @@ img.profile-pic {
 	vertical-align: middle;
 	line-height: 48px;
 	font-family: 'Muli', sans-serif;
-	color: #D7D7D7;
+	color: #171717;
 	font-weight: 300;
 	border-radius:8px;
 }
