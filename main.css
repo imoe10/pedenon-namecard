@@ -136,9 +136,9 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #EFEFEF;
 	
-
+	background-image: url('assets/card_bg.jpg');
+	
 }
 
 .bg-color-white {
